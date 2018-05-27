@@ -1,0 +1,8 @@
+[user]
+	name = Jose Miguel Carvallo Garcia
+	email = jmcarvallogarcia@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
